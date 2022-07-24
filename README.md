@@ -12,7 +12,7 @@ generation of Pewlett-Hackard employees.
 
 ![Retirment_eligible_employees_by_title](https://user-images.githubusercontent.com/103155045/180656736-4768ebad-d9fa-4108-9427-e2f84f963779.png)
 	
-  - There are over 70,000 employees who will be apporaching retierment age.
+  	- There are over 70,000 employees who will be apporaching retierment age.
 	- Over 25,000 of these employees hold Senior Engineer titles.
 	- Over 24,000 of these employees hold Senior Staff titles.
 	- There are just over 1,500 employees who would be eligible for the Mentorship Program.
